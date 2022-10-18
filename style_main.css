@@ -60,12 +60,12 @@ h4 {
 }
 
 .dream {
-	background: url(../bg2.jpg) center fixed;
+	background: url(bg2.jpg) center fixed;
 	background-size: cover;
 }
 
 .top-pane {
-	background: url(../main1.jpg) center fixed;
+	background: url(main1.jpg) center fixed;
 	background-size: cover;
 	height: calc(100vh - 100px);
 }
